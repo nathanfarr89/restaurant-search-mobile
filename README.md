@@ -1,5 +1,6 @@
 # restaurant-search-mobile
 React Native mobile app using Yelp API
 
-1. yarn install
-2. expo start
+1. Download Expo from app store
+2. yarn install
+3. expo start
